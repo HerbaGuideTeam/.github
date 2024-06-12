@@ -1,7 +1,7 @@
 # HerbaGuide
 
 ## Team Members
-### Bangkit 2023 Capstone Team C241-PS193
+### Bangkit 2024 Capstone Team C241-PS193
 
 | ID              | Name                           | Learning Path       |
 |:----------------|:-------------------------------|:--------------------|
