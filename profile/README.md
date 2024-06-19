@@ -1,5 +1,21 @@
 # HerbaGuide
 
+## Introduction
+![apk](https://github.com/HerbaGuideTeam/.github/assets/108212568/29f5e881-4034-4a5d-b5bc-42bc898ae1bf)
+
+HerbaGuide is a mobile application that helps you easily discover the benefits of herbal plants around you. By simply taking a photo or uploading a picture from your gallery, you can instantly get information about the plant's benefits. Additionally, HerbaGuide offers a news feature with the latest health-related articles.
+
+Explore more about HerbaGuide, visit our [HerbaGuide Landing Page](https://c241-ps193.uc.r.appspot.com/) for additional information.
+
+## Key Features
+- Herbal Plant Identification: Take a photo or upload an image of a herbal plant and receive detailed information about it.
+- Save History: Save history for future reference.
+- Health News: Read the latest articles on health and herbal topics.
+
+## Additional Feature
+- Authentication
+- Session Preference
+
 ## Team Members
 ### Bangkit 2024 Capstone Team C241-PS193
 
