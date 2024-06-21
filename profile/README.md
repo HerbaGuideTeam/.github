@@ -7,6 +7,9 @@ HerbaGuide is a mobile application that helps you easily discover the benefits o
 
 Explore more about HerbaGuide, visit our [HerbaGuide Landing Page](https://c241-ps193.uc.r.appspot.com/) for additional information.
 
+## Download Our Apps
+[Download](https://drive.google.com/file/d/13a8BFfZwTPUy6F78_EMwCTs2n0BAVpfi/view?usp=sharing)
+
 ## Key Features
 - Herbal Plant Identification: Take a photo or upload an image of a herbal plant and receive detailed information about it.
 - Save History: Save history for future reference.
